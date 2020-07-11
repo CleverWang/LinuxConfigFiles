@@ -1,0 +1,17 @@
+{
+    "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "explorer.confirmDelete": false,
+    "git.path": "E:\\Git\\bin\\git.exe",
+    "editor.renderWhitespace": "all",
+    "terminal.integrated.shell.windows": "E:\\Git\\bin\\bash.exe",
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.suggestSelection": "first",
+    "cmake.configureOnOpen": true,
+    "cmake.configureArgs": [
+        "-DCMAKE_TOOLCHAIN_FILE=D:/Packages/vcpkg/scripts/buildsystems/vcpkg.cmake"
+    ],
+    "C_Cpp.clang_format_fallbackStyle": " { BasedOnStyle: LLVM, UseTab: Never, IndentWidth: 4, TabWidth: 4, AllowShortIfStatementsOnASingleLine: false, IndentCaseLabels: false, ColumnLimit: 120, AccessModifierOffset: -4 }",
+    "remote.SSH.path": "E:\\Git\\usr\\bin\\ssh.exe"
+}
